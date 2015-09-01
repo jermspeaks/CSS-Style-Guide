@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/jermspeaks/CSS-Style-Guide/issues"
   },
-  "homepage": "https://github.com/jermspeaks/CSS-Style-Guide#readme"
+  "homepage": "https://github.com/jermspeaks/CSS-Style-Guide#readme",
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  }
 }
