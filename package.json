@@ -1,0 +1,29 @@
+{
+  "name": "css-style-guide",
+  "version": "1.0.0",
+  "description": "CSS style guide and example",
+  "main": "example/main.scss",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jermspeaks/CSS-Style-Guide.git"
+  },
+  "keywords": [
+    "css",
+    "style",
+    "guide",
+    "guidelines",
+    "example"
+  ],
+  "author": "Jeremy Wong (jermspeaks@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jermspeaks/CSS-Style-Guide/issues"
+  },
+  "homepage": "https://github.com/jermspeaks/CSS-Style-Guide#readme"
+}
